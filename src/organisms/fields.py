@@ -1,1 +1,0 @@
-# Fields class and functions
