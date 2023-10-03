@@ -1,4 +1,4 @@
-from organisms.organic_game_element_v2 import OrganicGameElement
+from organics.organic_game_element_v2 import OrganicGameElement
 
 class Faller(OrganicGameElement):
     def __init__(self, x=0, y=0, z30, init_energy_level=0, init_age=0, init_ageing_factor=1.0, terminal_velocity=0):
